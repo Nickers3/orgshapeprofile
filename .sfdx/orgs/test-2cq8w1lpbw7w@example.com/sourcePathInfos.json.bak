@@ -82,9 +82,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1580936687515,
-            "changeTime": 1580936687515,
-            "contentHash": "e79b966704765ed0f06c2c7cf5dd6e56e07bb4c7",
+            "modifiedTime": 1580938138795,
+            "changeTime": 1580938138795,
+            "contentHash": "3e6b070d7d2cfea66d3bf5a7c676ea74cdef23ed",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -130,6 +130,21 @@
             "modifiedTime": 1580936680787,
             "changeTime": 1580936680787,
             "contentHash": "58bd912f33a3e97e0d9c3a42436b80ff399581e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson System Administrator.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson System Administrator.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22835,
+            "modifiedTime": 1580938031028,
+            "changeTime": 1580938031028,
+            "contentHash": "a6b4d6084a15500788403917726d8ae9e5b635e0",
             "isWorkspace": false,
             "isArtifactRoot": false
         }

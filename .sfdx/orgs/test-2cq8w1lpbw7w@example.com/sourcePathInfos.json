@@ -1,0 +1,167 @@
+[
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579296559357,
+            "changeTime": 1579296560992,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579296559359,
+            "changeTime": 1579296559359,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579296559367,
+            "changeTime": 1579296559367,
+            "contentHash": "8100b331d5798b52156dc4652bd8f9af5e029000",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579294956558,
+            "changeTime": 1579296559360,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579296559365,
+            "changeTime": 1579296559365,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1580938138795,
+            "changeTime": 1580938138795,
+            "contentHash": "3e6b070d7d2cfea66d3bf5a7c676ea74cdef23ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\API Only User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\API Only User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18292,
+            "modifiedTime": 1579295737394,
+            "changeTime": 1579295737394,
+            "contentHash": "15c5ec69b6d661eadd3aa1ca2b6dd37c060d0778",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson Limited Access.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson Limited Access.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9555,
+            "modifiedTime": 1579295783126,
+            "changeTime": 1579295783126,
+            "contentHash": "58bd912f33a3e97e0d9c3a42436b80ff399581e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson Standard User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson Standard User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9555,
+            "modifiedTime": 1580936680787,
+            "changeTime": 1580936680787,
+            "contentHash": "58bd912f33a3e97e0d9c3a42436b80ff399581e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson System Administrator.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile\\force-app\\main\\default\\profiles\\Carlson System Administrator.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22835,
+            "modifiedTime": 1580938031028,
+            "changeTime": 1580938031028,
+            "contentHash": "a6b4d6084a15500788403917726d8ae9e5b635e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lind1207\\GitHub\\orgshapeprofile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lind1207\\GitHub\\orgshapeprofile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1579296559379,
+            "changeTime": 1579296560974,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
