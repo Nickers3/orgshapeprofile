@@ -1,10 +1,10 @@
 {
-  "orgName": "Demo Company",
-  "sourceOrg": "00D1I000001Y4P3UAK",
-  "features": [],
-  "settings": {
-    "orgPreferenceSettings": {
-      "s1DesktopEnabled": true
+    "orgName": "Project Company",
+    "edition": "Enterprise",
+    "features": [],
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true
+        }
     }
-  }
 }
